@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b48fdf0afc88d6e4ab15632587d1ae34, type: 3}
+  m_Name: DefenseUpgrade
+  m_EditorClassIdentifier: 
+  itemName: DefenseUpgrade
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: 9aa5e209a3d04b749be6ab1dbdc14739, type: 3}
+  itemPrefab: {fileID: 8065315144200491985, guid: 6d12a3fcae0451d4fbad46f8904764b4, type: 3}
+  itemDetail: "YES-065, \uC120\uC77C \uAE08\uACE0\uC758 \uAE30\uC220\uC774 \uC9D1\uC57D\uB41C
+    \uC9C0\uBB38 \uC778\uC2DD \uB0B4\uD654\uAE08\uACE0\uC774\uB2E4. \uC0AC\uC6A9\uC2DC
+    \uBC29\uC5B4\uB825\uC774 \uC62C\uB77C\uAC04\uB2E4."
+  weaponType: 
